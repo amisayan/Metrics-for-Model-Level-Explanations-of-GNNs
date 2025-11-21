@@ -13,14 +13,7 @@ The code also includes:
 
 ---
 
-## Repository Structure
 
-Metrics-for-Model-Level-Explanations-of-GNNs/
-│
-├── metrics.py # Core metric functions (Coverage, GGA, Overlap, Lipschitz, Hoeffding)
-├── 4Shapes.py # Example script demonstrating metrics on the 4shapes dataset
-├── requirements.txt
-└── README.md
 
 ---
 
