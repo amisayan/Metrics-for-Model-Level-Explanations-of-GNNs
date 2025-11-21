@@ -17,7 +17,7 @@ The code also includes:
 
 ---
 
-## Installation
+## Installation and Code Running
 
 Clone the repository and install dependencies:
 
