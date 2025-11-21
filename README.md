@@ -12,7 +12,7 @@ The code also includes:
 - Hoeffding concentration bounds for Coverage and GGA.
 
 ---
-
+## Please run 4ShapesDemo.py which demonstrates the application of our metric and provides a complete workflow on the 4Shapes dataset. Other files will be updated post-acceptance of the paper and are placeholders for now.
 
 
 ---
@@ -24,3 +24,5 @@ Clone the repository and install dependencies:
 ```bash
 cd Metrics-for-Model-Level-Explanations-of-GNNs
 pip install -r requirements.txt
+python 4shapesDemo.py
+
