@@ -1,6 +1,6 @@
 # Metrics for Model-Level Explanations of GNNs
 
-This repository contains the implementation of the metrics proposed in our ICLR 2026 submission:
+This repository contains the implementation of the metrics proposed in our ICLR 2026 paper:
 
 - **Coverage**
 - **Greedy Gain Area (GGA)**
